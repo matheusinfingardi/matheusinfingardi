@@ -28,8 +28,8 @@ Feel free to check out my projects and let's keep coding together! 🚀
 
 ## 📬 Contact Me
 
-- **[LinkedIn](https://www.linkedin.com/in/matheus-infingardi)** ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
-- **[Email](mailto:matheus.infingardi@gmail.com)** ![Email Badge](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)
+**[LinkedIn](https://www.linkedin.com/in/matheus-infingardi)** ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white) &nbsp;&nbsp; **[Email](mailto:matheus.infingardi@gmail.com)** ![Email Badge](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)
+
 
 
 
