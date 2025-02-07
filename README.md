@@ -30,4 +30,4 @@ Feel free to check out my projects and let's keep coding together! 🚀
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-infingardi) &nbsp;&nbsp; [![Email Badge](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:matheus.infingardi@gmail.com)
 
 
-![Bottom Border](https://your-image-url.com/bottom-border.png)
+![Minha Imagem](https://raw.githubusercontent.com/matheusinfingardi/matheusinfingardi/main/border-bottom.png)
