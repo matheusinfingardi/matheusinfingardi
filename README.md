@@ -26,6 +26,12 @@ Feel free to check out my projects and let's keep coding together! 🚀
 ![Web3.js](https://img.shields.io/badge/Web3.js-000000?style=for-the-badge&logo=Web3.js&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=Solidity&logoColor=white)
 
+## 📬 Contact Me
+
+- **LinkedIn**: [Meu LinkedIn](https://www.linkedin.com/in/matheus-infingardi)
+- **Email**: [seu-email@example.com](mailto:matheus.infingardi@gmail.com)
+
+
 
 
 ![Bottom Border](https://your-image-url.com/bottom-border.png)
