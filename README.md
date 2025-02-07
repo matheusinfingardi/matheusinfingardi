@@ -13,7 +13,7 @@
 ## 🚀 About Me
 
 🎓 **Education:** Software Development at 42 School  
-💼 **Currently working on:** Open-source projects & personal development  
+💼 **Currently working on:** Personal Projects  
 📚 **Learning:** Exploring new technologies, especially Web3 & Cloud Computing  
 🎯 **Interests:** Web Development, Blockchain, Cloud, AI and more  
 
