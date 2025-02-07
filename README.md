@@ -1,6 +1,6 @@
-<h1 align="center">👋 Olá! Eu sou Matheus Infingardi!</h1>
+<h1>👋 Olá! Eu sou Matheus Infingardi!</h1>
 
-<p align="center">
+<p>
   💻 Desenvolvedor Full Stack | 🚀 Apaixonado por Tecnologia
   <br>
   📍 Atualmente em Porto, Portugal
@@ -18,18 +18,9 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical"/>
-</div>
-
----
-
 ## 🛠️ Tecnologias e Ferramentas  
 
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript">
   <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react">
   <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js">
@@ -42,7 +33,7 @@
 
 ## 📫 Onde me encontrar?
 
-<div align="center">
+<div">
   <a href="https://www.linkedin.com/in/SEU-LINKEDIN/">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
   </a>
